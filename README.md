@@ -5,6 +5,8 @@
 
 ### Simple programs
 - hello world
+- addition
+- subtraction
 - greeting
 - circle
 - unit conversion
@@ -15,3 +17,10 @@
 ### cycles
 
 ## Part II
+
+## generate executable
+
+```
+nasm -f elf64 file.asm -o file.o
+ld file.o -o file
+```
