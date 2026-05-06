@@ -48,7 +48,7 @@ La arquitectura x86-64 (tambien llamada AMD64 o x64) es una extension de 64 bits
 
 ### Registros de proposito general
 
-Los registros son pequenas unidades de almacenamiento dentro del procesador. Son mucho mas rapidos que la memoria RAM.
+Los registros son pequeñas unidades de almacenamiento dentro del procesador. Son mucho mas rapidos que la memoria RAM.
 
 ```
 Registro completo (64 bits):  RAX
